@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "role": "admin",
+      "name": "Eugeny",
+      "lastName": "",
+      "email": "-",
+      "github": "",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 2,
+      "role": "student",
+      "name": "Vlad",
+      "lastName": "",
+      "email": "-",
+      "github": "",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 3,
+      "role": "student",
+      "name": "Dmitry",
+      "lastName": "Morozov",
+      "email": "morozov@gmail.com",
+      "github": "https://github.com/DmitrTRC/LevelUP_C_Part_1",
+      "checks_by": [],
+      "checks_to": []
+    }
+  ]
+}
