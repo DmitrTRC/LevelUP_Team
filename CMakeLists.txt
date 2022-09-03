@@ -9,12 +9,12 @@ FetchContent_Declare(json URL https://github.com/nlohmann/json/releases/download
 FetchContent_MakeAvailable(json)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
-message(STATUS "HW_3_5 Output directory: ${CMAKE_RUNTIME_OUTPUT_DIRECTORY}")
+message(STATUS "Team  Output directory: ${CMAKE_RUNTIME_OUTPUT_DIRECTORY}")
 
 
-#add_subdirectory(src)
+add_subdirectory(src)
 #add_subdirectory(tests)
 
 add_executable(team main.cpp)
 
-target_link_libraries(team PRIVATE nlohmann_json::nlohmann_json)
+target_link_libraries(team PRIVATE nlohmann_json::nlohmann_json team_lib)
