@@ -1,7 +1,7 @@
 {
   "team": [
     {
-      "id": 1,
+      "id": 0,
       "role": "admin",
       "name": "Eugeny",
       "lastName": "",
@@ -11,12 +11,22 @@
       "checks_to": []
     },
     {
+      "id": 1,
+      "role": "student",
+      "name": "Владимир",
+      "lastName": "Столяров",
+      "email": "Unknown",
+      "github": "https://github.com/89218633146/Homework",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
       "id": 2,
       "role": "student",
-      "name": "Vlad",
-      "lastName": "",
-      "email": "-",
-      "github": "",
+      "name": "Михаил",
+      "lastName": "Максименко",
+      "email": "Unknown",
+      "github": "https://github.com/3rOFd/Work_2022_2",
       "checks_by": [],
       "checks_to": []
     },
@@ -27,6 +37,66 @@
       "lastName": "Morozov",
       "email": "morozov@gmail.com",
       "github": "https://github.com/DmitrTRC/LevelUP_C_Part_1",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 4,
+      "role": "student",
+      "name": "Arina",
+      "lastName": "Morozova",
+      "email": "Unknown",
+      "github": "https://github.com/Arisha75144/LevelUp.git",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 5,
+      "role": "student",
+      "name": "Дмитрий",
+      "lastName": "Посыпайко",
+      "email": "Unknown",
+      "github": "https://github.com/posdima/C_course_1",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 6,
+      "role": "student",
+      "name": "Андрей",
+      "lastName": "Лактионов",
+      "email": "Unknown",
+      "github": "https://github.com/Batery03/Lesson.git",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 7,
+      "role": "student",
+      "name": "Владислав",
+      "lastName": "Баринов",
+      "email": "Unknown",
+      "github": "https://github.com/Grave1ine/work_2022_1",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 8,
+      "role": "student",
+      "name": "Екатерина",
+      "lastName": "Горячевская",
+      "email": "Unknown",
+      "github": "https://github.com/Kathrin-23/Work_2022_2",
+      "checks_by": [],
+      "checks_to": []
+    },
+    {
+      "id": 9,
+      "role": "student",
+      "name": "Сенильга",
+      "lastName": "Макарова",
+      "email": "Unknown",
+      "github": "https://github.com/Snejochekk/st",
       "checks_by": [],
       "checks_to": []
     }
