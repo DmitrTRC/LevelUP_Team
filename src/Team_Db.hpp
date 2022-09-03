@@ -1,0 +1,14 @@
+//
+// Created by Dmitry Morozov on 4/9/22.
+//
+
+#ifndef LEVELUP_REVIEWERS_ASSIGN_MASTER_TEAM_DB_HPP
+#define LEVELUP_REVIEWERS_ASSIGN_MASTER_TEAM_DB_HPP
+
+
+class TeamDB {
+
+};
+
+
+#endif //LEVELUP_REVIEWERS_ASSIGN_MASTER_TEAM_DB_HPP
